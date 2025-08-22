@@ -8,3 +8,4 @@ def home():
 
 if __name__ == '__main__':
     app.run(debug=True)
+# index.html 파일을 실행시키기 위한 별도의 python 파일
